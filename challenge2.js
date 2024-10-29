@@ -10,5 +10,5 @@ function speedGovernor(){
 
     }
     }
-    const speed = 90;
+    const speed = 80;
 speedGovernor()
